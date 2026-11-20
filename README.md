@@ -17,7 +17,6 @@ The knowledge base is built from the directed graph and road distances of Kenya'
 network from Practical Exercise 3. The agent uses facts and
 rules about roads, traffic signals and road conditions, and Uniform Cost Search to find the
 best route from Nairobi to Kisumu, re-planning when a road is closed.
- of group work |
 
 ## How to Run
 Open `Autonomous_Trailer.ipynb` in Google Colab or Jupyter and click **Run all**.
